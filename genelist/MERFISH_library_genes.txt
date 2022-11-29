@@ -1,0 +1,417 @@
+Gene	Entrez Gene Name	Location	Type(s)
+Ackr3	atypical chemokine receptor 3	Plasma Membrane	G-protein coupled receptor
+Acsbg1	acyl-CoA synthetase bubblegum family member 1	Cytoplasm	enzyme
+Adam33	ADAM metallopeptidase domain 33	Plasma Membrane	peptidase
+Adcyap1	adenylate cyclase activating polypeptide 1	Extracellular Space	other
+Adcyap1r1	ADCYAP receptor type I	Plasma Membrane	G-protein coupled receptor
+Adora1	adenosine A1 receptor	Plasma Membrane	G-protein coupled receptor
+Adora2a	adenosine A2a receptor	Plasma Membrane	G-protein coupled receptor
+Adora2b	adenosine A2b receptor	Plasma Membrane	G-protein coupled receptor
+Adora3	adenosine A3 receptor	Plasma Membrane	G-protein coupled receptor
+Adra1a	adrenoceptor alpha 1A	Plasma Membrane	G-protein coupled receptor
+Adra1b	adrenoceptor alpha 1B	Plasma Membrane	G-protein coupled receptor
+Adra1d	adrenoceptor alpha 1D	Plasma Membrane	G-protein coupled receptor
+Adra2a	adrenoceptor alpha 2A	Plasma Membrane	G-protein coupled receptor
+Adra2b	adrenoceptor alpha 2B	Plasma Membrane	G-protein coupled receptor
+Adra2c	adrenoceptor alpha 2C	Plasma Membrane	G-protein coupled receptor
+Adrb1	adrenoceptor beta 1	Plasma Membrane	G-protein coupled receptor
+Adrb3	adrenoceptor beta 3	Plasma Membrane	G-protein coupled receptor
+Aqp4	aquaporin 4	Plasma Membrane	transporter
+Arc	activity regulated cytoskeleton associated protein	Cytoplasm	other
+Arhgap25	Rho GTPase activating protein 25	Cytoplasm	other
+Aspa	aspartoacylase	Cytoplasm	enzyme
+Bcl11b	BAF chromatin remodeling complex subunit BCL11B	Nucleus	transcription regulator
+Bdnf	brain derived neurotrophic factor	Extracellular Space	growth factor
+Blnk	B cell linker	Cytoplasm	other
+Bmp4	bone morphogenetic protein 4	Extracellular Space	growth factor
+Brca1	BRCA1 DNA repair associated	Nucleus	transcription regulator
+Brinp3	BMP/retinoic acid inducible neural specific 3	Cytoplasm	other
+C1qa	complement C1q A chain	Extracellular Space	other
+C1qb	complement C1q B chain	Extracellular Space	other
+C1qc	complement C1q C chain	Extracellular Space	other
+Cacna1a	calcium voltage-gated channel subunit alpha1 A	Plasma Membrane	ion channel
+Cacna1b	calcium voltage-gated channel subunit alpha1 B	Plasma Membrane	ion channel
+Cacna1d	calcium voltage-gated channel subunit alpha1 D	Plasma Membrane	ion channel
+Cacna1e	calcium voltage-gated channel subunit alpha1 E	Plasma Membrane	ion channel
+Cacna1f	calcium voltage-gated channel subunit alpha1 F	Plasma Membrane	ion channel
+Cacna1g	calcium voltage-gated channel subunit alpha1 G	Plasma Membrane	ion channel
+Cacna1h	calcium voltage-gated channel subunit alpha1 H	Plasma Membrane	ion channel
+Cacna1i	calcium voltage-gated channel subunit alpha1 I	Plasma Membrane	ion channel
+Cacna1s	calcium voltage-gated channel subunit alpha1 S	Plasma Membrane	ion channel
+Cacna2d1	calcium voltage-gated channel auxiliary subunit alpha2delta 1	Plasma Membrane	ion channel
+Cacna2d2	calcium voltage-gated channel auxiliary subunit alpha2delta 2	Plasma Membrane	ion channel
+Cacna2d3	calcium voltage-gated channel auxiliary subunit alpha2delta 3	Plasma Membrane	ion channel
+Cacna2d4	calcium voltage-gated channel auxiliary subunit alpha2delta 4	Plasma Membrane	ion channel
+Cacnb1	calcium voltage-gated channel auxiliary subunit beta 1	Plasma Membrane	ion channel
+Cacnb2	calcium voltage-gated channel auxiliary subunit beta 2	Plasma Membrane	ion channel
+Cacnb4	calcium voltage-gated channel auxiliary subunit beta 4	Plasma Membrane	ion channel
+Cacng1	calcium voltage-gated channel auxiliary subunit gamma 1	Plasma Membrane	ion channel
+Cacng2	calcium voltage-gated channel auxiliary subunit gamma 2	Plasma Membrane	ion channel
+Cacng3	calcium voltage-gated channel auxiliary subunit gamma 3	Plasma Membrane	ion channel
+Cacng4	calcium voltage-gated channel auxiliary subunit gamma 4	Plasma Membrane	ion channel
+Cacng5	calcium voltage-gated channel auxiliary subunit gamma 5	Plasma Membrane	ion channel
+Cacng6	calcium voltage-gated channel auxiliary subunit gamma 6	Plasma Membrane	ion channel
+Cacng7	calcium voltage-gated channel auxiliary subunit gamma 7	Plasma Membrane	ion channel
+Cacng8	calcium voltage-gated channel auxiliary subunit gamma 8	Plasma Membrane	ion channel
+Cadps2	calcium dependent secretion activator 2	Plasma Membrane	other
+Calb1	calbindin 1	Cytoplasm	other
+Cbln4	cerebellin 4 precursor	Extracellular Space	other
+Ccbe1	collagen and calcium binding EGF domains 1	Extracellular Space	other
+Ccdc3	coiled-coil domain containing 3	Cytoplasm	other
+Cckbr	cholecystokinin B receptor	Plasma Membrane	G-protein coupled receptor
+Ccnb1	cyclin B1	Cytoplasm	kinase
+Cd24a	CD24a antigen	Plasma Membrane	other
+Cd44	CD44 molecule (Indian blood group)	Plasma Membrane	other
+Cdca7	cell division cycle associated 7	Nucleus	other
+Cdh12	cadherin 12	Plasma Membrane	other
+Cdh20	cadherin 20	Plasma Membrane	other
+Cdh9	cadherin 9	Plasma Membrane	other
+Ceacam9	carcinoembryonic antigen-related cell adhesion molecule 9	Extracellular Space	other
+Chn2	chimerin 2	Cytoplasm	other
+Chodl	chondrolectin	Plasma Membrane	other
+Chrm1	cholinergic receptor muscarinic 1	Plasma Membrane	G-protein coupled receptor
+Chrm2	cholinergic receptor muscarinic 2	Plasma Membrane	G-protein coupled receptor
+Chrm3	cholinergic receptor muscarinic 3	Plasma Membrane	G-protein coupled receptor
+Chrm4	cholinergic receptor muscarinic 4	Plasma Membrane	G-protein coupled receptor
+Chrm5	cholinergic receptor muscarinic 5	Plasma Membrane	G-protein coupled receptor
+Chrna1	cholinergic receptor nicotinic alpha 1 subunit	Plasma Membrane	transmembrane receptor
+Chrna10	cholinergic receptor nicotinic alpha 10 subunit	Plasma Membrane	transmembrane receptor
+Chrna2	cholinergic receptor nicotinic alpha 2 subunit	Plasma Membrane	transmembrane receptor
+Chrna3	cholinergic receptor nicotinic alpha 3 subunit	Plasma Membrane	transmembrane receptor
+Chrna4	cholinergic receptor nicotinic alpha 4 subunit	Plasma Membrane	transmembrane receptor
+Chrna5	cholinergic receptor nicotinic alpha 5 subunit	Plasma Membrane	transmembrane receptor
+Chrna7	cholinergic receptor nicotinic alpha 7 subunit	Plasma Membrane	transmembrane receptor
+Chrna9	cholinergic receptor nicotinic alpha 9 subunit	Plasma Membrane	transmembrane receptor
+Chrnb1	cholinergic receptor nicotinic beta 1 subunit	Plasma Membrane	transmembrane receptor
+Chrnb2	cholinergic receptor nicotinic beta 2 subunit	Plasma Membrane	transmembrane receptor
+Chrnb3	cholinergic receptor nicotinic beta 3 subunit	Plasma Membrane	transmembrane receptor
+Chrnb4	cholinergic receptor nicotinic beta 4 subunit	Plasma Membrane	transmembrane receptor
+Chrne	cholinergic receptor nicotinic epsilon subunit	Plasma Membrane	transmembrane receptor
+Clca1	chloride channel accessory 1	Plasma Membrane	ion channel
+Clca2	chloride channel accessory 2	Plasma Membrane	ion channel
+Clca3a1	chloride channel accessory 3A1	Plasma Membrane	ion channel
+Clca3a2	chloride channel accessory 3A1	Plasma Membrane	ion channel
+Clca3b	chloride channel accessory 3B	Other	ion channel
+Clca4a	chloride channel accessory 4	Plasma Membrane	ion channel
+Clca4b	chloride channel accessory 4	Plasma Membrane	ion channel
+Clcc1	chloride channel CLIC like 1	Cytoplasm	ion channel
+Clcn1	chloride voltage-gated channel 1	Plasma Membrane	ion channel
+Clcn2	chloride voltage-gated channel 2	Plasma Membrane	ion channel
+Clcn3	chloride voltage-gated channel 3	Plasma Membrane	ion channel
+Clcn5	chloride voltage-gated channel 5	Plasma Membrane	ion channel
+Clcn6	chloride voltage-gated channel 6	Plasma Membrane	ion channel
+Clcn7	chloride voltage-gated channel 7	Plasma Membrane	ion channel
+Clcnkb	chloride voltage-gated channel Ka	Plasma Membrane	ion channel
+Cldn5	claudin 5	Plasma Membrane	other
+Clic1	chloride intracellular channel 1	Nucleus	ion channel
+Clic3	chloride intracellular channel 3	Nucleus	ion channel
+Clic4	chloride intracellular channel 4	Plasma Membrane	ion channel
+Clic5	chloride intracellular channel 5	Cytoplasm	ion channel
+Clic6	chloride intracellular channel 6	Plasma Membrane	ion channel
+Clrn1	clarin 1	Plasma Membrane	other
+Cnr1	cannabinoid receptor 1	Plasma Membrane	G-protein coupled receptor
+Cnr2	cannabinoid receptor 2	Plasma Membrane	G-protein coupled receptor
+Cntnap5b	contactin associated protein-like 5B	Other	other
+Col14a1	collagen type XIV alpha 1 chain	Extracellular Space	other
+Col23a1	collagen type XXIII alpha 1 chain	Plasma Membrane	other
+Col24a1	collagen type XXIV alpha 1 chain	Extracellular Space	other
+Cpne2	copine 2	Cytoplasm	other
+Crem	cAMP responsive element modulator	Nucleus	transcription regulator
+Crh	corticotropin releasing hormone	Extracellular Space	cytokine
+Crhr1	corticotropin releasing hormone receptor 1	Plasma Membrane	G-protein coupled receptor
+Crhr2	corticotropin releasing hormone receptor 2	Plasma Membrane	G-protein coupled receptor
+Crim1	cysteine rich transmembrane BMP regulator 1	Extracellular Space	kinase
+Crispld2	cysteine rich secretory protein LCCL domain containing 2	Cytoplasm	other
+Ctss	cathepsin S	Cytoplasm	peptidase
+Cux1	cut-like homeobox 1	Nucleus	transcription regulator
+Cux2	cut like homeobox 2	Nucleus	transcription regulator
+Cxcl12	C-X-C motif chemokine ligand 12	Extracellular Space	cytokine
+Ddit4l	DNA damage inducible transcript 4 like	Cytoplasm	other
+Dmkn	dermokine	Extracellular Space	other
+Drd1	dopamine receptor D1	Plasma Membrane	G-protein coupled receptor
+Drd2	dopamine receptor D2	Plasma Membrane	G-protein coupled receptor
+Drd4	dopamine receptor D4	Plasma Membrane	G-protein coupled receptor
+Drd5	dopamine receptor D5	Plasma Membrane	G-protein coupled receptor
+Egfr	epidermal growth factor receptor	Plasma Membrane	kinase
+Egln3	egl-9 family hypoxia inducible factor 3	Cytoplasm	enzyme
+Egr2	early growth response 2	Nucleus	transcription regulator
+Enpp6	ectonucleotide pyrophosphatase/phosphodiesterase 6	Cytoplasm	enzyme
+Ermn	ermin	Extracellular Space	other
+Etv1	ETS variant transcription factor 1	Nucleus	transcription regulator
+Fam107a	family with sequence similarity 107 member A	Nucleus	other
+Fezf2	FEZ family zinc finger 2	Other	transcription regulator
+Flt1	fms related receptor tyrosine kinase 1	Plasma Membrane	kinase
+Fosb	FosB proto-oncogene, AP-1 transcription factor subunit	Nucleus	transcription regulator
+Foxp2	forkhead box P2	Nucleus	transcription regulator
+Gabra2	gamma-aminobutyric acid type A receptor subunit alpha2	Plasma Membrane	ion channel
+Gabra5	gamma-aminobutyric acid type A receptor subunit alpha5	Plasma Membrane	ion channel
+Gabrd	gamma-aminobutyric acid type A receptor subunit delta	Plasma Membrane	ion channel
+Gabre	gamma-aminobutyric acid (GABA) A receptor, subunit epsilon	Plasma Membrane	ion channel
+Gabrg1	gamma-aminobutyric acid type A receptor subunit gamma1	Plasma Membrane	ion channel
+Gabrg2	gamma-aminobutyric acid type A receptor subunit gamma2	Plasma Membrane	ion channel
+Gabrg3	gamma-aminobutyric acid type A receptor subunit gamma3	Plasma Membrane	ion channel
+Gabrq	gamma-aminobutyric acid type A receptor subunit theta	Plasma Membrane	ion channel
+Gabrr1	gamma-aminobutyric acid type A receptor subunit rho1	Plasma Membrane	ion channel
+Gabrr2	gamma-aminobutyric acid type A receptor subunit rho2	Plasma Membrane	ion channel
+Gabrr3	gamma-aminobutyric acid type A receptor subunit rho3	Plasma Membrane	transmembrane receptor
+Gad1	glutamate decarboxylase 1	Cytoplasm	enzyme
+Gad2	glutamate decarboxylase 2	Cytoplasm	enzyme
+Gjb6	gap junction protein beta 6	Plasma Membrane	transporter
+Glra1	glycine receptor alpha 1	Plasma Membrane	ion channel
+Glra2	glycine receptor alpha 2	Plasma Membrane	ion channel
+Glra4	glycine receptor alpha 4 (pseudogene)	Plasma Membrane	ion channel
+Glrb	glycine receptor beta	Plasma Membrane	ion channel
+Gpr3	G protein-coupled receptor 3	Plasma Membrane	G-protein coupled receptor
+Gprc5a	G protein-coupled receptor class C group 5 member A	Plasma Membrane	G-protein coupled receptor
+Gpx3	glutathione peroxidase 3	Extracellular Space	enzyme
+Gria1	glutamate ionotropic receptor AMPA type subunit 1	Plasma Membrane	ion channel
+Gria3	glutamate ionotropic receptor AMPA type subunit 3	Plasma Membrane	ion channel
+Gria4	glutamate ionotropic receptor AMPA type subunit 4	Plasma Membrane	ion channel
+Grid1	glutamate ionotropic receptor delta type subunit 1	Plasma Membrane	ion channel
+Grid2	glutamate ionotropic receptor delta type subunit 2	Plasma Membrane	ion channel
+Grik1	glutamate ionotropic receptor kainate type subunit 1	Plasma Membrane	ion channel
+Grin1	glutamate ionotropic receptor NMDA type subunit 1	Plasma Membrane	ion channel
+Grin2a	glutamate ionotropic receptor NMDA type subunit 2A	Plasma Membrane	ion channel
+Grin2b	glutamate ionotropic receptor NMDA type subunit 2B	Plasma Membrane	ion channel
+Grin2c	glutamate ionotropic receptor NMDA type subunit 2C	Plasma Membrane	ion channel
+Grin2d	glutamate ionotropic receptor NMDA type subunit 2D	Plasma Membrane	ion channel
+Grin3a	glutamate ionotropic receptor NMDA type subunit 3A	Plasma Membrane	ion channel
+Grin3b	glutamate ionotropic receptor NMDA type subunit 3B	Plasma Membrane	ion channel
+Grm1	glutamate metabotropic receptor 1	Plasma Membrane	G-protein coupled receptor
+Grm2	glutamate metabotropic receptor 2	Plasma Membrane	G-protein coupled receptor
+Grm3	glutamate metabotropic receptor 3	Plasma Membrane	G-protein coupled receptor
+Grm4	glutamate metabotropic receptor 4	Plasma Membrane	G-protein coupled receptor
+Grm5	glutamate metabotropic receptor 5	Plasma Membrane	G-protein coupled receptor
+Grm6	glutamate metabotropic receptor 6	Plasma Membrane	G-protein coupled receptor
+Grm7	glutamate metabotropic receptor 7	Plasma Membrane	G-protein coupled receptor
+Grm8	glutamate metabotropic receptor 8	Plasma Membrane	G-protein coupled receptor
+Grp	gastrin releasing peptide	Extracellular Space	growth factor
+Grpr	gastrin releasing peptide receptor	Plasma Membrane	G-protein coupled receptor
+Hcn1	hyperpolarization activated cyclic nucleotide gated potassium channel 1	Plasma Membrane	ion channel
+Hcn2	hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2	Plasma Membrane	ion channel
+Hcn3	hyperpolarization activated cyclic nucleotide gated potassium channel 3	Plasma Membrane	ion channel
+Hcn4	hyperpolarization activated cyclic nucleotide gated potassium channel 4	Plasma Membrane	ion channel
+Hhip	hedgehog interacting protein	Plasma Membrane	other
+Hpse	heparanase	Plasma Membrane	enzyme
+Hrh1	histamine receptor H1	Plasma Membrane	G-protein coupled receptor
+Hrh2	histamine receptor H2	Plasma Membrane	G-protein coupled receptor
+Hrh3	histamine receptor H3	Plasma Membrane	G-protein coupled receptor
+Hsd11b1	hydroxysteroid 11-beta dehydrogenase 1	Cytoplasm	enzyme
+Htr1a	5-hydroxytryptamine receptor 1A	Plasma Membrane	G-protein coupled receptor
+Htr1b	5-hydroxytryptamine receptor 1B	Plasma Membrane	G-protein coupled receptor
+Htr1d	5-hydroxytryptamine receptor 1D	Plasma Membrane	G-protein coupled receptor
+Htr1f	5-hydroxytryptamine receptor 1F	Plasma Membrane	G-protein coupled receptor
+Htr2a	5-hydroxytryptamine receptor 2A	Plasma Membrane	G-protein coupled receptor
+Htr2b	5-hydroxytryptamine receptor 2B	Plasma Membrane	G-protein coupled receptor
+Htr2c	5-hydroxytryptamine receptor 2C	Plasma Membrane	G-protein coupled receptor
+Htr3a	5-hydroxytryptamine receptor 3A	Plasma Membrane	ion channel
+Htr3b	5-hydroxytryptamine receptor 3B	Plasma Membrane	ion channel
+Htr4	5-hydroxytryptamine receptor 4	Plasma Membrane	G-protein coupled receptor
+Htr5a	5-hydroxytryptamine receptor 5A	Plasma Membrane	G-protein coupled receptor
+Htr5b	5-hydroxytryptamine (serotonin) receptor 5B	Plasma Membrane	G-protein coupled receptor
+Htr7	5-hydroxytryptamine receptor 7	Plasma Membrane	G-protein coupled receptor
+Igfbp4	insulin like growth factor binding protein 4	Extracellular Space	other
+Ikzf2	IKAROS family zinc finger 2	Nucleus	transcription regulator
+Il1rapl1	interleukin 1 receptor accessory protein like 1	Plasma Membrane	transmembrane receptor
+Il1rapl2	interleukin 1 receptor accessory protein like 2	Plasma Membrane	transmembrane receptor
+Il4ra	interleukin 4 receptor	Plasma Membrane	transmembrane receptor
+Inhba	inhibin subunit beta A	Extracellular Space	growth factor
+Insl6	insulin like 6	Extracellular Space	other
+Jun	Jun proto-oncogene, AP-1 transcription factor subunit	Nucleus	transcription regulator
+Junb	JunB proto-oncogene, AP-1 transcription factor subunit	Nucleus	transcription regulator
+Kcna1	potassium voltage-gated channel subfamily A member 1	Plasma Membrane	ion channel
+Kcna10	potassium voltage-gated channel subfamily A member 10	Plasma Membrane	ion channel
+Kcna2	potassium voltage-gated channel subfamily A member 2	Plasma Membrane	ion channel
+Kcna3	potassium voltage-gated channel subfamily A member 3	Plasma Membrane	ion channel
+Kcna4	potassium voltage-gated channel subfamily A member 4	Plasma Membrane	ion channel
+Kcna5	potassium voltage-gated channel subfamily A member 5	Plasma Membrane	ion channel
+Kcna6	potassium voltage-gated channel subfamily A member 6	Plasma Membrane	ion channel
+Kcna7	potassium voltage-gated channel subfamily A member 7	Plasma Membrane	ion channel
+Kcnab1	potassium voltage-gated channel subfamily A regulatory beta subunit 1	Plasma Membrane	ion channel
+Kcnab2	potassium voltage-gated channel subfamily A regulatory beta subunit 2	Plasma Membrane	ion channel
+Kcnab3	potassium voltage-gated channel subfamily A regulatory beta subunit 3	Plasma Membrane	ion channel
+Kcnb1	potassium voltage-gated channel subfamily B member 1	Plasma Membrane	ion channel
+Kcnb2	potassium voltage-gated channel subfamily B member 2	Plasma Membrane	ion channel
+Kcnc1	potassium voltage-gated channel subfamily C member 1	Plasma Membrane	ion channel
+Kcnc2	potassium voltage-gated channel subfamily C member 2	Plasma Membrane	ion channel
+Kcnc3	potassium voltage-gated channel subfamily C member 3	Plasma Membrane	ion channel
+Kcnc4	potassium voltage-gated channel subfamily C member 4	Plasma Membrane	ion channel
+Kcnd1	potassium voltage-gated channel subfamily D member 1	Plasma Membrane	ion channel
+Kcnd2	potassium voltage-gated channel subfamily D member 2	Plasma Membrane	ion channel
+Kcnd3	potassium voltage-gated channel subfamily D member 3	Plasma Membrane	ion channel
+Kcne2	potassium voltage-gated channel subfamily E regulatory subunit 2	Plasma Membrane	ion channel
+Kcne3	potassium voltage-gated channel subfamily E regulatory subunit 3	Plasma Membrane	ion channel
+Kcne4	potassium voltage-gated channel subfamily E regulatory subunit 4	Plasma Membrane	ion channel
+Kcnf1	potassium voltage-gated channel modifier subfamily F member 1	Plasma Membrane	ion channel
+Kcng1	potassium voltage-gated channel modifier subfamily G member 1	Plasma Membrane	ion channel
+Kcng2	potassium voltage-gated channel modifier subfamily G member 2	Plasma Membrane	ion channel
+Kcng3	potassium voltage-gated channel modifier subfamily G member 3	Cytoplasm	ion channel
+Kcng4	potassium voltage-gated channel modifier subfamily G member 4	Plasma Membrane	ion channel
+Kcnh1	potassium voltage-gated channel subfamily H member 1	Plasma Membrane	ion channel
+Kcnh2	potassium voltage-gated channel subfamily H member 2	Plasma Membrane	ion channel
+Kcnh3	potassium voltage-gated channel subfamily H member 3	Plasma Membrane	ion channel
+Kcnh4	potassium voltage-gated channel subfamily H member 4	Plasma Membrane	ion channel
+Kcnh5	potassium voltage-gated channel subfamily H member 5	Plasma Membrane	ion channel
+Kcnh6	potassium voltage-gated channel subfamily H member 6	Plasma Membrane	ion channel
+Kcnh7	potassium voltage-gated channel subfamily H member 7	Plasma Membrane	ion channel
+Kcnh8	potassium voltage-gated channel subfamily H member 8	Plasma Membrane	ion channel
+Kcnj1	potassium inwardly rectifying channel subfamily J member 1	Plasma Membrane	ion channel
+Kcnj10	potassium inwardly rectifying channel subfamily J member 10	Plasma Membrane	ion channel
+Kcnj11	potassium inwardly rectifying channel subfamily J member 11	Plasma Membrane	ion channel
+Kcnj12	potassium inwardly rectifying channel subfamily J member 12	Plasma Membrane	ion channel
+Kcnj13	potassium inwardly rectifying channel subfamily J member 13	Plasma Membrane	ion channel
+Kcnj14	potassium inwardly rectifying channel subfamily J member 14	Plasma Membrane	ion channel
+Kcnj15	potassium inwardly rectifying channel subfamily J member 15	Plasma Membrane	ion channel
+Kcnj16	potassium inwardly rectifying channel subfamily J member 16	Plasma Membrane	ion channel
+Kcnj2	potassium inwardly rectifying channel subfamily J member 2	Plasma Membrane	ion channel
+Kcnj3	potassium inwardly rectifying channel subfamily J member 3	Plasma Membrane	ion channel
+Kcnj4	potassium inwardly rectifying channel subfamily J member 4	Plasma Membrane	ion channel
+Kcnj5	potassium inwardly rectifying channel subfamily J member 5	Plasma Membrane	ion channel
+Kcnj6	potassium inwardly rectifying channel subfamily J member 6	Plasma Membrane	ion channel
+Kcnj8	potassium inwardly rectifying channel subfamily J member 8	Plasma Membrane	ion channel
+Kcnj9	potassium inwardly rectifying channel subfamily J member 9	Plasma Membrane	ion channel
+Kcnk1	potassium two pore domain channel subfamily K member 1	Plasma Membrane	ion channel
+Kcnk10	potassium two pore domain channel subfamily K member 10	Plasma Membrane	ion channel
+Kcnk13	potassium two pore domain channel subfamily K member 13	Plasma Membrane	ion channel
+Kcnk15	potassium two pore domain channel subfamily K member 15	Plasma Membrane	ion channel
+Kcnk2	potassium two pore domain channel subfamily K member 2	Plasma Membrane	ion channel
+Kcnk3	potassium two pore domain channel subfamily K member 3	Plasma Membrane	ion channel
+Kcnk4	potassium two pore domain channel subfamily K member 4	Plasma Membrane	ion channel
+Kcnk5	potassium two pore domain channel subfamily K member 5	Plasma Membrane	ion channel
+Kcnk6	potassium two pore domain channel subfamily K member 6	Plasma Membrane	ion channel
+Kcnk7	potassium two pore domain channel subfamily K member 7	Plasma Membrane	ion channel
+Kcnk9	potassium two pore domain channel subfamily K member 9	Plasma Membrane	ion channel
+Kcnma1	potassium calcium-activated channel subfamily M alpha 1	Plasma Membrane	ion channel
+Kcnmb1	potassium calcium-activated channel subfamily M regulatory beta subunit 1	Plasma Membrane	ion channel
+Kcnmb2	potassium calcium-activated channel subfamily M regulatory beta subunit 2	Plasma Membrane	ion channel
+Kcnmb3	potassium calcium-activated channel subfamily M regulatory beta subunit 3	Plasma Membrane	ion channel
+Kcnmb4	potassium calcium-activated channel subfamily M regulatory beta subunit 4	Plasma Membrane	ion channel
+Kcnn1	potassium calcium-activated channel subfamily N member 1	Plasma Membrane	ion channel
+Kcnn2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	Plasma Membrane	ion channel
+Kcnn3	potassium calcium-activated channel subfamily N member 3	Plasma Membrane	ion channel
+Kcnn4	potassium calcium-activated channel subfamily N member 4	Plasma Membrane	ion channel
+Kcnq1	potassium voltage-gated channel subfamily Q member 1	Plasma Membrane	ion channel
+Kcnq2	potassium voltage-gated channel subfamily Q member 2	Plasma Membrane	ion channel
+Kcnq3	potassium voltage-gated channel subfamily Q member 3	Plasma Membrane	ion channel
+Kcnq4	potassium voltage-gated channel subfamily Q member 4	Plasma Membrane	ion channel
+Kcnq5	potassium voltage-gated channel subfamily Q member 5	Plasma Membrane	ion channel
+Kcns1	potassium voltage-gated channel modifier subfamily S member 1	Plasma Membrane	ion channel
+Kcns2	potassium voltage-gated channel modifier subfamily S member 2	Plasma Membrane	ion channel
+Kcns3	potassium voltage-gated channel modifier subfamily S member 3	Plasma Membrane	ion channel
+Kcnt1	potassium sodium-activated channel subfamily T member 1	Plasma Membrane	ion channel
+Kcnt2	potassium sodium-activated channel subfamily T member 2	Plasma Membrane	ion channel
+Kcnv1	potassium voltage-gated channel modifier subfamily V member 1	Plasma Membrane	ion channel
+Kcnv2	potassium voltage-gated channel modifier subfamily V member 2	Plasma Membrane	ion channel
+Krt73	keratin 73	Extracellular Space	other
+Lama3	laminin subunit alpha 3	Extracellular Space	other
+Lamp5	lysosomal associated membrane protein family member 5	Cytoplasm	other
+Lhx6	LIM homeobox 6	Nucleus	transcription regulator
+Lmo1	LIM domain only 1	Nucleus	transcription regulator
+Kcne1	potassium voltage-gated channel subfamily E regulatory subunit 1B	Plasma Membrane	ion channel
+Lpl	lipoprotein lipase	Cytoplasm	enzyme
+Lratd2	LRAT domain containing 2	Plasma Membrane	other
+Lsp1	lymphocyte specific protein 1	Cytoplasm	other
+Lyzl4	lysozyme like 4	Extracellular Space	enzyme
+Matn4	matrilin 4	Extracellular Space	other
+Mog	myelin oligodendrocyte glycoprotein	Extracellular Space	other
+Moxd1	monooxygenase DBH like 1	Cytoplasm	enzyme
+Mycl	MYCL proto-oncogene, bHLH transcription factor	Nucleus	transcription regulator
+Myh7	myosin heavy chain 7	Cytoplasm	enzyme
+Ndst4	N-deacetylase and N-sulfotransferase 4	Cytoplasm	enzyme
+Nnat	neuronatin	Plasma Membrane	transporter
+Nnmt	nicotinamide N-methyltransferase	Cytoplasm	enzyme
+Nos1	nitric oxide synthase 1	Cytoplasm	enzyme
+Npas1	neuronal PAS domain protein 1	Nucleus	transcription regulator
+Npas4	neuronal PAS domain protein 4	Nucleus	transcription regulator
+Npnt	nephronectin	Plasma Membrane	other
+Npr3	natriuretic peptide receptor 3	Plasma Membrane	G-protein coupled receptor
+Nptx2	neuronal pentraxin 2	Extracellular Space	other
+Npy1r	neuropeptide Y receptor Y1	Plasma Membrane	G-protein coupled receptor
+Npy2r	neuropeptide Y receptor Y2	Plasma Membrane	G-protein coupled receptor
+Npy5r	neuropeptide Y receptor Y5	Plasma Membrane	G-protein coupled receptor
+Nr4a1	nuclear receptor subfamily 4 group A member 1	Nucleus	ligand-dependent nuclear receptor
+Oprd1	opioid receptor delta 1	Plasma Membrane	G-protein coupled receptor
+Oprk1	opioid receptor kappa 1	Plasma Membrane	G-protein coupled receptor
+Oprl1	opioid related nociceptin receptor 1	Plasma Membrane	G-protein coupled receptor
+Oprm1	opioid receptor mu 1	Plasma Membrane	G-protein coupled receptor
+Osr1	odd-skipped related transcription factor 1	Nucleus	transcription regulator
+Otof	otoferlin	Plasma Membrane	other
+Oxtr	oxytocin receptor	Plasma Membrane	G-protein coupled receptor
+Pak4	p21 (RAC1) activated kinase 4	Cytoplasm	kinase
+Pbx3	PBX homeobox 3	Nucleus	transcription regulator
+Pcsk1	proprotein convertase subtilisin/kexin type 1	Cytoplasm	peptidase
+Pde11a	phosphodiesterase 11A	Cytoplasm	enzyme
+Pdgfra	platelet derived growth factor receptor alpha	Plasma Membrane	kinase
+Pdlim5	PDZ and LIM domain 5	Cytoplasm	other
+Pdyn	prodynorphin	Extracellular Space	transporter
+Penk	proenkephalin	Extracellular Space	other
+Phactr2	phosphatase and actin regulator 2	Other	other
+Pld5	phospholipase D family member 5	Other	other
+Pnoc	prepronociceptin	Extracellular Space	other
+Pou3f1	POU domain, class 3, transcription factor 1	Nucleus	transcription regulator
+Prok2	prokineticin 2	Extracellular Space	other
+Prokr2	prokineticin receptor 2	Plasma Membrane	G-protein coupled receptor
+Prr16	proline rich 16	Other	other
+Pthlh	parathyroid hormone like hormone	Extracellular Space	other
+Ptprz1	protein tyrosine phosphatase receptor type Z1	Plasma Membrane	phosphatase
+Pvalb	parvalbumin	Cytoplasm	other
+Rbp4	retinol binding protein 4	Extracellular Space	other
+Reln	reelin	Extracellular Space	peptidase
+Rerg	RAS like estrogen regulated growth inhibitor	Nucleus	enzyme
+Rgs5	regulator of G protein signaling 5	Plasma Membrane	enzyme
+Rln1	relaxin 1	Extracellular Space	other
+Rorb	RAR related orphan receptor B	Nucleus	ligand-dependent nuclear receptor
+Rspo1	R-spondin 1	Plasma Membrane	other
+Rxfp1	relaxin family peptide receptor 1	Plasma Membrane	G-protein coupled receptor
+Rxfp2	relaxin family peptide receptor 2	Plasma Membrane	G-protein coupled receptor
+Rxfp3	relaxin family peptide receptor 3	Plasma Membrane	G-protein coupled receptor
+Rxrg	retinoid X receptor gamma	Nucleus	ligand-dependent nuclear receptor
+S100b	S100 calcium binding protein B	Cytoplasm	other
+Satb1	SATB homeobox 1	Nucleus	transcription regulator
+Satb2	SATB homeobox 2	Nucleus	transcription regulator
+Scn10a	sodium voltage-gated channel alpha subunit 10	Plasma Membrane	ion channel
+Scn11a	sodium voltage-gated channel alpha subunit 11	Plasma Membrane	ion channel
+Scn1a	sodium voltage-gated channel alpha subunit 1	Plasma Membrane	ion channel
+Scn1b	sodium voltage-gated channel beta subunit 1	Plasma Membrane	ion channel
+Scn2a	sodium voltage-gated channel alpha subunit 2	Plasma Membrane	ion channel
+Scn3a	sodium voltage-gated channel alpha subunit 3	Plasma Membrane	ion channel
+Scn3b	sodium voltage-gated channel beta subunit 3	Plasma Membrane	ion channel
+Scn4a	sodium voltage-gated channel alpha subunit 4	Plasma Membrane	ion channel
+Scn4b	sodium voltage-gated channel beta subunit 4	Plasma Membrane	ion channel
+Scn5a	sodium voltage-gated channel alpha subunit 5	Plasma Membrane	ion channel
+Scn7a	sodium voltage-gated channel alpha subunit 7	Plasma Membrane	ion channel
+Scn8a	sodium voltage-gated channel alpha subunit 8	Plasma Membrane	ion channel
+Scn9a	sodium voltage-gated channel alpha subunit 9	Plasma Membrane	ion channel
+Scnn1a	sodium channel epithelial 1 subunit alpha	Plasma Membrane	ion channel
+Scnn1b	sodium channel epithelial 1 subunit beta	Plasma Membrane	ion channel
+Scnn1g	sodium channel epithelial 1 subunit gamma	Plasma Membrane	ion channel
+Sema5a	semaphorin 5A	Plasma Membrane	transmembrane receptor
+Serpinb2	serpin family B member 2	Extracellular Space	other
+Serpinf1	serpin family F member 1	Extracellular Space	other
+Slc17a6	solute carrier family 17 member 6	Plasma Membrane	transporter
+Slc17a8	solute carrier family 17 member 8	Plasma Membrane	transporter
+Slc32a1	solute carrier family 32 member 1	Plasma Membrane	transporter
+Sncg	synuclein gamma	Cytoplasm	other
+Sstr1	somatostatin receptor 1	Plasma Membrane	G-protein coupled receptor
+Sstr2	somatostatin receptor 2	Plasma Membrane	G-protein coupled receptor
+Sstr3	somatostatin receptor 3	Plasma Membrane	G-protein coupled receptor
+Sstr4	somatostatin receptor 4	Plasma Membrane	G-protein coupled receptor
+Sstr5	somatostatin receptor 5	Plasma Membrane	G-protein coupled receptor
+Stim2	stromal interaction molecule 2	Plasma Membrane	transporter
+Syt6	synaptotagmin 6	Cytoplasm	transporter
+Tac1	tachykinin precursor 1	Extracellular Space	other
+Tacr1	tachykinin receptor 1	Plasma Membrane	G-protein coupled receptor
+Tacr2	tachykinin receptor 2	Plasma Membrane	G-protein coupled receptor
+Tacr3	tachykinin receptor 3	Plasma Membrane	G-protein coupled receptor
+Tcap	titin-cap	Cytoplasm	other
+Tcerg1l	transcription elongation regulator 1 like	Other	other
+Th	tyrosine hydroxylase	Cytoplasm	enzyme
+Tm4sf1	transmembrane 4 L six family member 1	Plasma Membrane	other
+Tmem100	transmembrane protein 100	Plasma Membrane	other
+Tnnt1	troponin T1, slow skeletal type	Cytoplasm	other
+Tshz1	teashirt zinc finger homeobox 1	Nucleus	transcription regulator
+Tshz2	teashirt zinc finger homeobox 2	Nucleus	transcription regulator
+Vegfd	vascular endothelial growth factor D	Extracellular Space	growth factor
+Vipr1	vasoactive intestinal peptide receptor 1	Plasma Membrane	G-protein coupled receptor
+Vipr2	vasoactive intestinal peptide receptor 2	Plasma Membrane	G-protein coupled receptor
+Wnt5a	Wnt family member 5A	Extracellular Space	cytokine
