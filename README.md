@@ -1,6 +1,6 @@
 # PFC-MERFISH
 ## Spatially resolved single cell transcriptome profiling of mouse PFC
-We employed [MERFISH](https://www.science.org/doi/10.1126/science.aaa6090), an imaging-based single cell spatial transcriptome technology, to decode organizational heterogeneity of cell in PFC.
+We employed [MERFISH](https://www.science.org/doi/10.1126/science.aaa6090), an imaging-based single cell spatial transcriptome technology, to decode organizational heterogeneity of cells in mouse prefrontal cortex (PFC).
 
 ![cover](Cover_fig.png)
 
