@@ -21,6 +21,8 @@ Seurat_4.0.5, SeuratObject_4.0.2, harmony_1.0, dplyr_1.0.7, ggplot2_3.3.5, cowpl
 - integrate_scRNA_merFISH.R: Integrate MERFISH and scRNA-seq data
 - merFISH_Pain_0329.R: A script for identifying Pain related subtypes and genes
 
+## Data Visualization
+UCSC Cell brower was used for MERFISH data visulization: [Access](https://yizhang-lab.github.io/PFC)
 
 ## Supportive data
 [Single cell RNA-seq of PFC](https://www.nature.com/articles/s41467-019-12054-3)
